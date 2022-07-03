@@ -58,7 +58,7 @@ namespace Atividade3
             }
 
 
-            Console.ReadLine();
+            Console.ReadKey();
 
         }
     }
